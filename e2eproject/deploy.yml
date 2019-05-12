@@ -1,4 +1,4 @@
-/var/lib/jenkins/workspace/nvnshopping-cart/targeti- name: Create tomcat AWS infrastructure
+- name: Create tomcat AWS infrastructure
   hosts: localhost
   connection: local
   roles:
